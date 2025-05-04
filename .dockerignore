@@ -1,0 +1,5 @@
+.env.dev
+.venv/
+images/*.*
+*.sqlite3
+initial_data.json

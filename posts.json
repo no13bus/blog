@@ -1,0 +1,22 @@
+[
+{
+  "model": "post.posts",
+  "pk": 1,
+  "fields": {
+    "title": "it is raining",
+    "content": "content3",
+    "created_at": "2025-05-03T19:56:39.671Z",
+    "updated_at": "2025-05-03T22:34:52.747Z"
+  }
+},
+{
+  "model": "post.posts",
+  "pk": 2,
+  "fields": {
+    "title": "nice day",
+    "content": "content2",
+    "created_at": "2025-05-03T20:11:58.998Z",
+    "updated_at": "2025-05-03T22:34:31.683Z"
+  }
+}
+]
